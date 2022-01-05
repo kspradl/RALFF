@@ -1,9 +1,9 @@
 # R.A.L.F.F.
-#Research
-#A
-#Little
-#Fantasy
-#Football
+**R**esearch
+**A**
+**L**ittle
+**F**antasy
+**F**ootball
 
 Program designed to pull player stats and coaching styles together to predict potential future sleepers
 
